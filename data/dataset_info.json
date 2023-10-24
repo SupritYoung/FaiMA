@@ -1,0 +1,290 @@
+{
+  "aspe_noicl_train": {
+    "file_name": "inst/ASPE/noicl_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "aspe_noicl_test": {
+    "file_name": "inst/ASPE/noicl_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "aspe_random_train": {
+    "file_name": "inst/ASPE/random_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "aspe_random_test": {
+    "file_name": "inst/ASPE/random_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "aspe_sbert_train": {
+    "file_name": "inst/ASPE/sbert_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "aspe_sbert_test": {
+    "file_name": "inst/ASPE/sbert_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "aspe_gnn_train": {
+    "file_name": "inst/ASPE/gnn_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "aspe_gnn_test": {
+    "file_name": "inst/ASPE/gnn_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_as_noicl_train": {
+    "file_name": "inst/MEMD/AS/noicl_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_as_noicl_test": {
+    "file_name": "inst/MEMD/AS/noicl_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_as_random_train": {
+    "file_name": "inst/MEMD/AS/random_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_as_random_test": {
+    "file_name": "inst/MEMD/AS/random_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_as_sbert_train": {
+    "file_name": "inst/MEMD/AS/sbert_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_as_sbert_test": {
+    "file_name": "inst/MEMD/AS/sbert_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_as_gnn_train": {
+    "file_name": "inst/MEMD/AS/gnn_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_as_gnn_test": {
+    "file_name": "inst/MEMD/AS/gnn_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_aos_noicl_train": {
+    "file_name": "inst/MEMD/AOS/noicl_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_aos_noicl_test": {
+    "file_name": "inst/MEMD/AOS/noicl_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_aos_random_train": {
+    "file_name": "inst/MEMD/AOS/random_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_aos_random_test": {
+    "file_name": "inst/MEMD/AOS/random_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_aos_sbert_train": {
+    "file_name": "inst/MEMD/AOS/sbert_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_aos_sbert_test": {
+    "file_name": "inst/MEMD/AOS/sbert_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_aos_gnn_train": {
+    "file_name": "inst/MEMD/AOS/gnn_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_aos_gnn_test": {
+    "file_name": "inst/MEMD/AOS/gnn_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_acos_noicl_train": {
+    "file_name": "inst/MEMD/ACOS/noicl_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_acos_noicl_test": {
+    "file_name": "inst/MEMD/ACOS/noicl_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_acos_random_train": {
+    "file_name": "inst/MEMD/ACOS/random_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_acos_random_test": {
+    "file_name": "inst/MEMD/ACOS/random_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_acos_sbert_train": {
+    "file_name": "inst/MEMD/ACOS/sbert_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_acos_sbert_test": {
+    "file_name": "inst/MEMD/ACOS/sbert_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_acos_gnn_train": {
+    "file_name": "inst/MEMD/ACOS/gnn_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "memd_acos_gnn_test": {
+    "file_name": "inst/MEMD/ACOS/gnn_test.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  }
+}
