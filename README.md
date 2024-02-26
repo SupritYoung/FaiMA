@@ -1,4 +1,4 @@
-This is a Pytorch implementation of FaiMA: Feature-aware In-context Learning for Multi-Domain Aspect-based Sentiment Analysis
+This is a Pytorch implementation and released dataset of "FaiMA: Feature-aware In-context Learning for Multi-Domain Aspect-based Sentiment Analysis" accepted by LREC-COLING 2024.
 
 # Feature-aware In-context Learning for Multi-Domain Aspect-based Sentiment Analysis (FaiMA)
 
